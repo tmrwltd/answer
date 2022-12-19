@@ -7,11 +7,11 @@ backend:
     unknown:
       other: "Unbekannter Fehler."
     request_format_error:
-      other: "Request format is not valid."
+      other: "Anfrageformat ist nicht gültig."
     unauthorized_error:
-      other: "Unauthorized."
+      other: "Unberechtigt."
     database_error:
-      other: "Data server error."
+      other: "Fehler im Datenserver."
 
   role:
     name:
